@@ -1,1 +1,2 @@
-CLI Commands
+CLI Commands:
+Reception

@@ -4,8 +4,7 @@ This repository contains a Cisco Packet Tracer network topology design for a sma
 
 ## 📊 Network Topology Diagram
 
-![Hospital Network Topology](topology.png)
-*(Note to user: Replace 'topology.png' with your actual screenshot filename once uploaded)*
+![Hospital Network Topology](small hospital network Blueprint.png)
 
 ## 🏢 Hospital Departments & Devices
 
